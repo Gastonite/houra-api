@@ -1,0 +1,25 @@
+{
+  "name": "houra-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".houra.yml",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gastonite/houra-api.git"
+  },
+  "author": "Clément Pasquier <clement@n00sphere.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gastonite/houra-api/issues"
+  },
+  "homepage": "https://github.com/Gastonite/houra-api#readme",
+  "peerDependencies": {
+    "houra": "git+https://github.com/Gastonite/houra.git#master"
+  },
+  "dependencies": {
+    "joi": "^9.1.0"
+  }
+}
