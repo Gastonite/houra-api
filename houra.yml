@@ -1,7 +1,7 @@
 id: api
 steps:
   - dogwater
-  - resource
+  - ./resource
 structure:
   models: models
   controllers: controllers
